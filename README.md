@@ -8,11 +8,11 @@ To implement this project, follow the below given steps.
 
 **`1. Create two branch in your local Git repo.`**
 
-![Capture - Copy](https://user-images.githubusercontent.com/60429108/81188538-0f8d2080-8fd3-11ea-82c5-e93f1d630758.PNG)
+![Capture1](https://user-images.githubusercontent.com/64262752/81263557-81aa4780-905d-11ea-902d-5743dec7d008.PNG)
 
 **`2. Sync your local branch with GitHub using the following commands.`**
 
-![capture1](https://user-images.githubusercontent.com/60429108/81188714-4ebb7180-8fd3-11ea-9a1b-35a73a23afa9.PNG)
+![Capture2](https://user-images.githubusercontent.com/64262752/81263562-82db7480-905d-11ea-8d49-ce2779fdf2eb.PNG)
 
 **`3. Beforehand check weather the two branch are successfully synced.`**
 
